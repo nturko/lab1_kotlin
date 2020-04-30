@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab2_Kotlin</string>
+    <string name="choose_options_of_task">Choose options of tasks.</string>
+    <string name="task_example">TASK EXAMPLE</string>
+    <string name="choose_difficulty">Choose difficulty:</string>
+    <string name="low_level">Low Level</string>
+    <string name="medium_level">Medium Level</string>
+    <string name="high_level">High Level</string>
+    <string name="choose_type_of_tasks">Choose type of tasks:</string>
+    <string name="practice">Practice</string>
+    <string name="theory">Theory</string>
+    <string name="ok">OK</string>
+</resources>
